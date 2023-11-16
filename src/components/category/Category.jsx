@@ -85,7 +85,7 @@ const Category = () => {
           </div>
         </div>
         <div className="grid gap-5">
-          <p className="font-KaushanScript text-2xl text-blue-900">Why Choose Us</p>
+          <p className="font-KaushanScript text-2xl text-blue-900">Why Choose Uss</p>
           <h2 className="text-WixMadefor font-bold text-5xl text-blue-950">
             Plan Your Trip With Trisog
           </h2>
