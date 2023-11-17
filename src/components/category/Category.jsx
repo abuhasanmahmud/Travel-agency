@@ -10,6 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
 const Category = () => {
+  console.log("category");
   return (
     <div className="bg-slate-100 md:py-14 py-10  ">
       <div className="text-center pb-5">
@@ -86,10 +87,10 @@ const Category = () => {
         </div>
         <div className="grid gap-5">
           <p className="font-KaushanScript text-2xl text-blue-900">Why Choose Us</p>
-          <h2 className="text-WixMadefor font-bold text-5xl text-blue-950">
+          <h2 className="text-WixMadefor font-bold lg:text-5xl md:text-4xl sm:text-3xl text-2xl text-blue-950">
             Plan Your Trip With Trisog
           </h2>
-          <p className="text-lg text-gray-500">
+          <p className="md:text-lg text-gray-500">
             Holisticly optimized productive strategic theme areas rather than effective manufactured
             products create.
           </p>
