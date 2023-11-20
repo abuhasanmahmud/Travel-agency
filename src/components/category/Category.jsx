@@ -11,6 +11,7 @@ import React from "react";
 
 const Category = () => {
   // console.log("category");
+  console.log("ss");
   return (
     <div className="bg-slate-100 md:py-14 py-10  ">
       <div className="text-center pb-5">
