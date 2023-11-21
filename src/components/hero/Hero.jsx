@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
 const Hero = () => {
+  console.log("aaa");
   return (
     <>
       <div className="grid lg:grid-cols-2 lg:py-10 lg:pb-24 bg-blue-900 w-full">
