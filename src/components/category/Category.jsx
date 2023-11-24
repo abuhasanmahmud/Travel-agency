@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
 const Category = () => {
-  console.log("category");
+  // console.log("category");
   console.log("ss");
   return (
     <div className="bg-slate-100 md:py-14 py-10  ">
