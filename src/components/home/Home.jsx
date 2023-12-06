@@ -5,7 +5,7 @@ import Testimonial from "../testimonial/Testimonial";
 import TravelLogo from "../travel&logo/TravelLogo";
 
 const Home = () => {
-  // console.log("ss");
+  console.log("ss");
   // console.log("ss");
   return (
     <>
